@@ -16,6 +16,8 @@ This problem can be confusing because most people look for the smallest common m
 #### Relevant Links
 
 *   <a href='https://en.wikipedia.org/wiki/Least_common_multiple' target='_blank' rel='nofollow'>Least (Smallest) Common Multiple</a>
+*   <a href='https://www.youtube.com/watch?v=7HCd074v8g8' target='_blank' rel='nofollow'>Greatest Common Divisor using Euclid's algorithm</a>
+*   <a href='https://www.wikihow.com/Find-the-Least-Common-Multiple-of-Two-Numbers' target='_blank' rel='nofollow'>How to find Least Common multiple using Greatest common divisor</a>
 
 ## ![:speech_balloon:](https://forum.freecodecamp.com/images/emoji/emoji_one/speech_balloon.png?v=3 ":speech_balloon:") Hint: 1
 
